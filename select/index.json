@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "余韻",
+  "base_artist": "三船栞子 (CV.小泉萌香)",
+  "createdAt": "2026-02-20T04:10:33.095801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "余韻",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/01_余韻_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "余韻",
+      "artist": "The GazettE",
+      "has_synced": false,
+      "path": "select/02_余韻_The_GazettE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "余韻",
+      "artist": "Chatmonchy",
+      "has_synced": false,
+      "path": "select/03_余韻_Chatmonchy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "余韻",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "has_synced": false,
+      "path": "select/pl_01_余韻_三船栞子_(CV.小泉萌香).txt"
+    }
+  ]
+}
